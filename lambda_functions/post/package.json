@@ -1,0 +1,12 @@
+{
+  "name": "post",
+  "version": "1.0.0",
+  "description": "Lamda Function to Post in DynamoDB",
+  "main": "main.js",
+  "author": "pnadalini",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.712.0",
+    "uuid": "^8.3.1"
+  }
+}
